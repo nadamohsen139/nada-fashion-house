@@ -320,6 +320,11 @@ header .links:hover ul {
     width: 920px;
   }
 }
+@media (max-width: 767px) {
+  .about .container {
+    width: 700px;
+  }
+}
 .about .about-content {
   margin-top: 100px;
   padding-left: 50px;
